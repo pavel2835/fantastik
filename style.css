@@ -1,0 +1,43 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    background-color: aquamarine;
+    border-radius: 15px;
+    padding: 3px;
+} 
+
+ img {
+    margin: 15px;
+    padding: 5px;
+ }
+
+header a{
+    background-color: white;
+    padding: 3px;
+    border-radius: 10px;
+    text-decoration: unset;
+}
+main h1 {
+    color: purple;
+    text-align: center;
+    border:3px solid purple;
+    border-radius: 10px;
+}
+footer p {
+    background-color: red;
+    padding: 5px;
+}
+nav a {
+    padding: 35px;
+    text-decoration: unset;
+}
+nav {
+    border:solid 3px blue;
+    margin:15px ;
+    padding: 5px;
+}
+.gg {
+    background-color: red;
+}
+
